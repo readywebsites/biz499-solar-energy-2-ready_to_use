@@ -9303,3 +9303,38 @@ margin: auto;
     color: #fff;
     font-size: 24px;
 }
+
+.img-01{
+    width: 400px;
+    height: 370px;
+    border-radius: 15px;
+}
+
+.img-02{
+    width: 370px;
+    height: 270px;
+    border-radius: 15px;
+}
+
+.img-03{
+    width: 400px;
+    height: 370px;
+    border-radius: 15px;
+}
+
+.img-04{
+    width: 400px;
+    height: 370px;
+    border-radius: 15px;
+}
+
+.avatar{
+    width: 260px;
+    height: 260px;
+}
+
+.test_avatar{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
